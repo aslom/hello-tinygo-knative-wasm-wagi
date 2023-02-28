@@ -1,0 +1,1 @@
+docker push aslom/hello-tinygo-knative-wasm-wagi:latest

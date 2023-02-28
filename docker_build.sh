@@ -1,0 +1,1 @@
+docker build -t aslom/hello-tinygo-knative-wasm-wagi:latest .
